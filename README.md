@@ -1,4 +1,4 @@
-📚 Course Registration System (Course Management System)
+Course Registration System (Course Management System)
 
 A simple Java-based Course Management System that allows administrators to manage course details efficiently.
 The application supports adding, viewing, updating, deleting, and searching courses using a menu-driven interface.
@@ -103,4 +103,4 @@ Building real-world console applications
 
 Lalit
 Computer Science Student
-GitHub: (Add your GitHub profile link here)
+
